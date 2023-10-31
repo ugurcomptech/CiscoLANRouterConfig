@@ -40,7 +40,7 @@ Ip yapılandırmalarını yaptığımıza göre Routera gelip orada ki yapıland
 
 # Simulasyon
 
-##10'lu blok IP ye sahip bilgisayarın yapılandırması:
+## 10'lu blok IP ye sahip bilgisayarın yapılandırması:
 
 ![image](https://github.com/ugurcomptech/CiscoLANRouterConfig/assets/133202238/ce0827bd-29d0-4304-a321-48d92c54c704)
 
