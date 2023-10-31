@@ -38,28 +38,28 @@ Ip yapılandırmalarını yaptığımıza göre Routera gelip orada ki yapıland
  Artık Local de olan iki farklı blok konuşabiliyor duruma gelmiştir. Bunun aynısını şimdi Cisco Packet Tracer'da yapalım:
 
 
-## Simulasyon
+# Simulasyon
 
-10'lu blok IP ye sahip bilgisayarın yapılandırması:
+##10'lu blok IP ye sahip bilgisayarın yapılandırması:
 
 ![image](https://github.com/ugurcomptech/CiscoLANRouterConfig/assets/133202238/ce0827bd-29d0-4304-a321-48d92c54c704)
 
 
-20'lu blok IP ye sahip bilgisayarın yapılandırması:
+## 20'lu blok IP ye sahip bilgisayarın yapılandırması:
 
 ![image](https://github.com/ugurcomptech/CiscoLANRouterConfig/assets/133202238/d500cb8f-de10-4d42-8ba5-42cd0ad9e3dc)
 
 
-Router Yapılandırması:
+## Router Yapılandırması:
 
 ![image](https://github.com/ugurcomptech/CiscoLANRouterConfig/assets/133202238/99bce4de-a3f2-4c77-9abf-fa4d59fa77d5)
 
 
+Yapılandırmalarımızı Bitirdik şimdi paketin nasıl gittiğini görelim:
 
 
 
-
-
+https://github.com/ugurcomptech/CiscoLANRouterConfig/assets/133202238/b02b46f4-e70e-4667-8cc6-5aa0d62a93bd
 
 
   
